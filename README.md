@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Gareth 👋
+
+😄I'm a CS Student and an aspiring Software Developer<br />
+🌱 I’m currently learning Cloud Computing, and fundamental DSA topics.<br />
+📫 You can reach me through my email: ngys.gareth@gmail.com<br />
+
+Languages and Tools
+* Java, Python, Kotlin, C programming
+* Javascript, Html, CSS
+* Node.js, MongoDB, MySQL
 
 <!--
 **Lilchoo/Lilchoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
