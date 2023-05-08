@@ -6,8 +6,8 @@
 
 Languages and Tools
 * Java, Python, Kotlin, C programming
-* Javascript, Html, CSS
-* Node.js, MongoDB, MySQL
+* Javascript, Html, CSS, React
+* Node.js, MongoDB, MySQL, Firebase
 
 <!--
 **Lilchoo/Lilchoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
