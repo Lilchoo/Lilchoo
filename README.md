@@ -1,5 +1,7 @@
 ### Hi, I'm Gareth 👋
 
+https://www.garethngys.xyz
+
 😄I'm a CS Student and an aspiring Software Developer<br />
 🌱 I’m currently learning Cloud Computing, and fundamental DSA topics.<br />
 📫 You can reach me through my email: ngys.gareth@gmail.com<br />
