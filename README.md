@@ -2,9 +2,9 @@
 
 https://www.garethngys.xyz
 
-😄I'm a CS Student and an aspiring Software Developer<br />
-🌱 I’m currently learning Cloud Computing, and fundamental DSA topics.<br />
-📫 You can reach me through my email: ngys.gareth@gmail.com<br />
+😄 I like building things.<br />
+🌱 I’m currently working as a software developer for a startup in AI security.<br />
+📫 You can reach me through my email: gareth.ngys@gmail.com<br />
 
 Languages and Tools
 * Java, Python, Kotlin, C programming
