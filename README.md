@@ -2,7 +2,7 @@
 
 😄 I like building things.<br />
 🌱 I’m currently working as a software developer for a startup in AI security.<br />
-📫 You can reach me through my email: gareth.ngys@gmail.com<br />
+<br />
 
 Languages and Tools
 * Java, Python, Kotlin, C programming
